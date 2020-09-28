@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CC",
+        "SC",
+        "S "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:colorite_axe",
+        "count": 1
+    }
+}

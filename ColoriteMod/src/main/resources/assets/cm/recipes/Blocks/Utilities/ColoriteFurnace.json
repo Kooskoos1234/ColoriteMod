@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        "CFC",
+        "CCC"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "F":
+        {
+            "item": "minecraft:furnace"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:colorite_furnace_off",
+        "count": 1
+    }
+}

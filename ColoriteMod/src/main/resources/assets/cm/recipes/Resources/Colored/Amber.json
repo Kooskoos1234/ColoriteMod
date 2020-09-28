@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "ACA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:dye",
+            "data": 14
+        },
+        "B":
+        {
+            "item": "cm:amber"
+        },
+        "C":
+        {
+            "item": "cm:mineral_base"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:amber",
+        "count": 2
+    }
+}

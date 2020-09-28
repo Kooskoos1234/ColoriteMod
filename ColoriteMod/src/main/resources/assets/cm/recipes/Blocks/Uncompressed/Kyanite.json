@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cm:kyanite_block"
+        }
+    ],
+    "result": {
+        "item": "cm:kyanite",
+        "count": 9
+    }
+}

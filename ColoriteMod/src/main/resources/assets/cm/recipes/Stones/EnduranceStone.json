@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "IYS",
+        "YCY",
+        "AYI"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "Y":
+        {
+            "item": "cm:topaz"
+        },
+        "S":
+        {
+            "item": "minecraft:shield"
+        },
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "A":
+        {
+            "item": "minecraft:gold_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:endurance_stone",
+        "count": 1
+    }
+}

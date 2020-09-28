@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "cm:sapphire"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:sapphire_block",
+        "count": 1
+    }
+}

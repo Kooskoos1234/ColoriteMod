@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OYY",
+        "RCY",
+        "BRO"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "B":
+        {
+            "item": "cm:sapphire"
+        },
+        "R":
+        {
+            "item": "cm:ruby"
+        },
+        "O":
+        {
+            "item": "cm:amber"
+        },
+        "Y":
+        {
+            "item": "cm:topaz"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:fire_stone",
+        "count": 1
+    }
+}

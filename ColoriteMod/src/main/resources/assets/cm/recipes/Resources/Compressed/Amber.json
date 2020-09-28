@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+    {
+        "item": "cm:amber_shard"
+    },
+    {
+        "item": "cm:amber_shard"
+    },
+    {
+        "item": "cm:amber_shard"
+    },
+    {
+        "item": "cm:amber_shard"
+    }
+    ],
+    "result":
+    {
+        "item": "cm:amber",
+        "count": 1
+    }
+}

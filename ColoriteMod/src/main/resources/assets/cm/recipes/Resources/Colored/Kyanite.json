@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "ACA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:dye/12"
+        },
+        "B":
+        {
+            "item": "cm:kyanite"
+        },
+        "C":
+        {
+            "item": "cm:mineral_base"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:kyanite",
+        "count": 2
+    }
+}

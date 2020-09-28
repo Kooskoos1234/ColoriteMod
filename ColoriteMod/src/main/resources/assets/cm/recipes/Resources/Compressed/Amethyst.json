@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+    {
+        "item": "cm:amethyst_shard"
+    },
+    {
+        "item": "cm:amethyst_shard"
+    },
+    {
+        "item": "cm:amethyst_shard"
+    },
+    {
+        "item": "cm:amethyst_shard"
+    }
+    ],
+    "result":
+    {
+        "item": "cm:amethyst",
+        "count": 1
+    }
+}

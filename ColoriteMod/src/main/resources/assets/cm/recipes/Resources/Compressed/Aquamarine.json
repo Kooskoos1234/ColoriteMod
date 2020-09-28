@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+    {
+        "item": "cm:aquamarine_shard"
+    },
+    {
+        "item": "cm:aquamarine_shard"
+    },
+    {
+        "item": "cm:aquamarine_shard"
+    },
+    {
+        "item": "cm:aquamarine_shard"
+    }
+    ],
+    "result":
+    {
+        "item": "cm:aquamarine",
+        "count": 1
+    }
+}    

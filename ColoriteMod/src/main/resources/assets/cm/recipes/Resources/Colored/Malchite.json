@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "ACA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:dye/10"
+        },
+        "B":
+        {
+            "item": "cm:malachite"
+        },
+        "C":
+        {
+            "item": "cm:mineral_base"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:malachite",
+        "count": 2
+    }
+}

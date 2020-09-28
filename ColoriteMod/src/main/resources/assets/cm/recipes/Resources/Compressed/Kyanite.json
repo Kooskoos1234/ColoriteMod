@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+    {
+        "item": "cm:kyanite_shard"
+    },
+    {
+        "item": "cm:kyanite_shard"
+    },
+    {
+        "item": "cm:kyanite_shard"
+    },
+    {
+        "item": "cm:kyanite_shard"
+    }
+    ],
+    "result":
+    {
+        "item": "cm:kyanite",
+        "count": 1
+    }
+}

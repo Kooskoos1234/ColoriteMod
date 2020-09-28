@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "C",
+        "S",
+        "F"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        "F":
+        {
+            "item": "minecraft:feather"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:colorite_arrow",
+        "count": 64
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "SAS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        "S":
+        {
+            "item": "cm:kyanite"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:kyanite_apple",
+        "count": 1
+    }
+}

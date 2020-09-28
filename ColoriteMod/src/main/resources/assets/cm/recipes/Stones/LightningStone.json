@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "KLK",
+        "LCL",
+        "KLK"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "L":
+        {
+            "item": "cm:kyanite"
+        },
+        "K":
+        {
+            "item": "cm:aquamarine"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:lightning_stone",
+        "count": 1
+    }
+}

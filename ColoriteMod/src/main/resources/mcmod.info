@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cm",
+  "name": "Colorite Mod",
+  "description": "My first Mod!",
+  "version": "Beta",
+  "mcversion": "1.12.2",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/the-colorite-mod",
+  "updateUrl": "https://www.curseforge.com/minecraft/mc-mods/the-colorite-mod",
+  "authorList": ["kooskoos1234"],
+  "credits": "Me"
+  "logoFile": "assets/cm/LogoFile",
+  "screenshots": [],
+  "dependencies": []
+}
+]

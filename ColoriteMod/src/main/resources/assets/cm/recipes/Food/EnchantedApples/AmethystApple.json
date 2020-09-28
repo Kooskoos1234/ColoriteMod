@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "SAS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        "S":
+        {
+            "item": "cm:amethyst_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:enchanted_amethyst_apple",
+        "count": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cm:colorite_block"
+        }
+    ],
+    "result": {
+        "item": "cm:colorite",
+        "count": 9
+    }
+}

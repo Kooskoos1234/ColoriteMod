@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GAA",
+        "GCA",
+        "GGA"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "G":
+        {
+            "item": "cm:malachite"
+        },
+        "A": {
+            "item": "minecraft:gold_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:life_stone",
+        "count": 1
+    }
+}

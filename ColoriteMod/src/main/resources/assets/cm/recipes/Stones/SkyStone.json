@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "FLF",
+        "LCL",
+        "FLF"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "L":
+        {
+            "item": "cm:aquamarine"
+        },
+        "F":
+        {
+            "item": "minecraft:feather"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:sky_stone",
+        "count": 1
+    }
+}

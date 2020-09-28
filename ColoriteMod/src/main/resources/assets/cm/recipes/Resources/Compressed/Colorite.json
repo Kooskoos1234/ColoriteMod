@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+    {
+        "item": "cm:colorite_shard"
+    },
+    {
+        "item": "cm:colorite_shard"
+    },
+    {
+        "item": "cm:colorite_shard"
+    },
+    {
+        "item": "cm:colorite_shard"
+    }
+    ],
+    "result":
+    {
+        "item": "cm:colorite",
+        "count": 1
+    }
+}

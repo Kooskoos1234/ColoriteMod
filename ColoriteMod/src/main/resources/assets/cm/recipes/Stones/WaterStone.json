@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "LKK",
+        "LCK",
+        "BLK"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "B":
+        {
+            "item": "cm:sapphire"
+        },
+        "L":
+        {
+            "item": "cm:kyanite"
+        },
+        "K":
+        {
+            "item": "cm:aquamarine"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:water_stone",
+        "count": 1
+    }
+}

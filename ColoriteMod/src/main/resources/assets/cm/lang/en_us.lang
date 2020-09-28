@@ -1,0 +1,150 @@
+//Items
+item.ruby.name=Ruby
+item.ruby_shard.name=Ruby Shard
+item.amber.name=Amber
+item.amber_shard.name=Amber Shard
+item.topaz.name=Topaz
+item.topaz_shard.name=Topaz Shard
+item.malachite.name=Malachite
+item.malachite_shard.name=Malachite Shard
+item.kyanite.name=Kyanite
+item.kyanite_shard.name=Kyanite Shard
+item.aquamarine.name=Aquamarine
+item.aquamarine_shard.name=Aquamarine Shard
+item.sapphire.name=Sapphire
+item.sapphire_shard.name=Sapphire Shard
+item.amethyst.name=Amethyst
+item.amethyst_shard.name=Amethyst Shard
+item.colorite.name=Colorite
+item.colorite_shard.name=Colorite Shard
+item.mineral_base.name=Mineral Base
+item.fire_stone.name=Fire Stone
+item.water_stone.name=Water Stone
+item.life_stone.name=Life Stone
+item.sky_stone.name=Sky Stone
+item.power_stone.name=Power Stone
+item.endurance_stone.name=Endurance Stone
+item.lightning_stone.name=Lightning Stone
+
+//Food
+item.chocolate_cake.name=Chocolate Cake
+item.fries.name=Fries
+item.bread_slice.name=Bread Slice
+item.burger.name=Burger
+item.burger_with_fries.name=Burger With Fries
+item.balanced_meal.name=Balanced Meal
+
+//Buff Food
+item.ruby_apple.name=Ruby Apple
+item.amber_apple.name=Amber Apple
+item.topaz_apple.name=Topaz Apple
+item.malachite_apple.name=Malachite Apple
+item.kyanite_apple.name=Kyanite Apple
+item.aquamarine_apple.name=Aquamarine Apple
+item.sapphire_apple.name=Sapphire Apple
+item.amethyst_apple.name=Amethyst Apple
+item.colorite_apple.name=Colorite Apple
+item.enchanted_ruby_apple.name=Enchanted Ruby Apple
+item.enchanted_amber_apple.name=Enchanted Amber Apple
+item.enchanted_topaz_apple.name=Enchanted Topaz Apple
+item.enchanted_malachite_apple.name=Enchanted Malachite Apple
+item.enchanted_kyanite_apple.name=Enchanetd Kyanite Apple
+item.enchanted_aquamarine_apple.name=enchanted Aquamarine Apple
+item.enchanted_sapphire_apple.name=Enchanted Sapphire Apple
+item.enchanted_amethyst_apple.name=Enchanted Amethyst Apple
+item.enchanted_colorite_apple.name=Enchanted Colorite Apple
+
+//Armor
+item.colorite_helmet.name=Colorite Helmet
+item.colorite_chestplate.name=Colorite Chestplate
+item.colorite_leggings.name=Colorite Leggings
+item.colorite_boots.name=Colorite Boots
+
+//Tools
+item.colorite_dagger.name=Colorite Dagger
+item.colorite_longsword.name=Colorite Longsword
+item.colorite_bow.name=Colorite Embroidered Bow
+item.colorite_pickaxe.name=Colorite Pickaxe
+item.colorite_axe.name=Colorite Axe
+item.colorite_shovel.name=Colorite Shovel
+item.colorite_hoe.name=Colorite Hoe
+item.colorite_arrow.name=Colorite Tipped Arrow
+item.water_jet.name=Water Jet
+
+//Wands
+item.wand_of_burning.name=Wand of Fire
+item.wand_of_flying.name=Wand of Flight
+item.wand_of_recovery.name=Wand of Recovery
+item.wand_of_lightning.name=Wand of Lightning
+item.wand_of_water.name=Wand of Water
+item.wand_of_power.name=Wand of Power
+item.wand_of_endurance.name=Wand of Endurance
+
+
+//Buff Items
+item.demonic_wings.name=Demonic Wings
+
+//Creative tools
+item.creative_wand_of_burning.name=Creative Wand of Fire
+item.creative_wand_of_flying.name=Creative Wand of Flight
+item.creative_wand_of_recovery.name=Creative Wand of Recovery
+item.creative_wand_of_lightning.name=Creative Wand of Lightning
+item.creative_wand_of_water.name=Creative Wand of Water
+item.creative_wand_of_power.name=Creative Wand of Power
+item.creative_wand_of_endurance.name=Creative Wand of Endurance
+item.creative_colorite_dagger.name=Creative Colorite Dagger
+
+//Blocks
+tile.ruby_block.name=Ruby Block
+tile.amber_block.name=Amber Block
+tile.topaz_block.name=Topaz Block
+tile.malachite_block.name=Malachite Block
+tile.kyanite_block.name=Kyanite Block
+tile.aquamarine_block.name=Aquamarine Block
+tile.sapphire_block.name=Sapphire Block
+tile.amethyst_block.name=Amethyst Block
+tile.colorite_block.name=Colorite Block
+tile.colorite_furnace_off.name=Colorite Furnace
+tile.colorite_furnace_on.name=Lit Colorite Furnace
+
+//Containers
+container.colorite_furnace=Colorite Furnace
+   
+//Ore Blocks
+tile.ruby_ore.name=Ruby Ore
+tile.amber_ore.name=Amber Ore
+tile.topaz_ore.name=Topaz Ore
+tile.malachite_ore.name=Malachite Ore
+tile.kyanite_ore.name=Kyanite Ore
+tile.aquamarine_ore.name=Aquamarine Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.amethyst_ore.name=Amethyst Ore
+tile.colorite_ore.name=Colorite Ore
+
+//Enchants
+enchantment.enchant_life_steal=Life Steal
+enchantment.enchant_poison=Poison
+enchantment.enchant_wither=Wither
+enchantment.enchant_haste=Haste
+enchantment.enchant_autosmelt=Autosmelt
+enchantment.enchant_quick_draw=Quick Draw
+enchantment.enchant_nimble=Nimble
+enchantment.enchant_leaping=Leaping
+enchantment.enchant_fire_immunity=Fire Immunity
+enchantment.enchant_recovery=Recovery
+enchantment.enchant_strength=Strength
+enchantment.enchant_reach=Reach
+enchantment.enchant_flight=Flight
+enchantment.enchant_saturation=Saturation
+enchantment.enchant_aquatic=Aquatic
+enchantment.enchant_night_vision=Night Vision
+enchantment.enchant_tank=Tank
+    
+//Potions
+effect.flight=Flight
+
+//Entities
+entity.colorite_arrow.name=Colorite Embroidered Arrow
+
+//Creative Tabs
+itemGroup.modded_resources_tab=Colorite Mod

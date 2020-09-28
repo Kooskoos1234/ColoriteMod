@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "CCC",
+        "C C",
+        "C C"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:colorite_leggings",
+        "count": 1
+    }
+}

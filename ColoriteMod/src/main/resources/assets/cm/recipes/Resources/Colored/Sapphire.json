@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABA",
+        "ACA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:dye/4"
+        },
+        "B":
+        {
+            "item": "cm:sapphire"
+        },
+        "C":
+        {
+            "item": "cm:mineral_base"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:sapphire",
+        "count": 2
+    }
+}

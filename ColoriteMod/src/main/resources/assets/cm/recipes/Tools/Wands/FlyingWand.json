@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " GS",
+        " GG",
+        "G  "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "cm:sky_stone"
+        },
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:wand_of_flying",
+        "count": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SW ",
+        "S C",
+        "SW "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        "W":
+        {
+            "item": "minecraft:string"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:colorite_bow",
+        "count": 1
+    }
+}

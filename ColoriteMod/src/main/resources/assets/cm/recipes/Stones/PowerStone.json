@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RDS",
+        "RCS",
+        "RRD"
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "cm:colorite"
+        },
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+        "R":
+        {
+            "item": "cm:ruby"
+        },
+        "S":
+        {
+            "item": "minecraft:diamond_sword"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:power_stone",
+        "count": 1
+    }
+}

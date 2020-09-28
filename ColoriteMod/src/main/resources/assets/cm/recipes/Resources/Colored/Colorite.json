@@ -1,0 +1,56 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ABC",
+        "DME",
+        "FGH"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "cm:ruby"
+        },
+        "B":
+        {
+            "item": "cm:amber"
+        },
+        "C":
+        {
+            "item": "cm:topaz"
+        },
+        "D":
+        {
+            "item": "cm:malachite"
+        },
+        "E":
+        {
+            "item": "cm:kyanite"
+        },
+        "F":
+        {
+            "item": "cm:aquamarine"
+        },
+        "G":
+        {
+            "item": "cm:sapphire"
+        },
+        "H":
+        {
+            "item": "cm:amethyst"
+        },
+        "M":
+        {
+            "item": "cm:mineral_base"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:colorite",
+        "count": 2
+    }
+}

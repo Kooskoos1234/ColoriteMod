@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " C ",
+        "CRC",
+        " C "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:stone"
+        },
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:mineral_base",
+        "count": 1
+    }
+}

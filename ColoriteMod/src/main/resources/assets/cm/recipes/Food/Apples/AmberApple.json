@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "SSS",
+        "SAS",
+        "SSS"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        "S":
+        {
+            "item": "cm:amber"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cm:amber_apple",
+        "count": 1
+    }
+}

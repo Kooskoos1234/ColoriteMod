@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+    {
+        "item": "cm:malachite_shard"
+    },
+    {
+        "item": "cm:malachite_shard"
+    },
+    {
+        "item": "cm:malachite_shard"
+    },
+    {
+        "item": "cm:malachite_shard"
+    }
+    ],
+    "result":
+    {
+        "item": "cm:malachite",
+        "count": 1
+    }
+}
